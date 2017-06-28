@@ -19,9 +19,3 @@ devtools::install_github("padilla410/EFDCr")
 
 Example
 -------
-
-This is a basic example which shows you how to solve a common problem:
-
-``` r
-## basic example code
-```
