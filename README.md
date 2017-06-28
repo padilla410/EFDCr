@@ -1,9 +1,6 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
-EFDCr
-=====
-
-[![Travis-CI Build Status](https://travis-ci.org/padilla410/EFDCr.svg?branch=master)](https://travis-ci.org/padilla410/EFDCr) Suite of post-processing tool for EFDC models
+[![Travis-CI Build Status](https://travis-ci.org/padilla410/EFDCr.svg?branch=master)](https://travis-ci.org/padilla410/EFDCr) \# EFDCr Suite of post-processing tool for EFDC models
 
 Installation
 ------------
