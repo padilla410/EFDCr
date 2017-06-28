@@ -3,7 +3,7 @@
 EFDCr
 =====
 
-The goal of EFDCr is to ...
+[![Travis-CI Build Status](https://travis-ci.org/padilla410/EFDCr.svg?branch=master)](https://travis-ci.org/padilla410/EFDCr) Suite of post-processing tool for EFDC models
 
 Installation
 ------------
